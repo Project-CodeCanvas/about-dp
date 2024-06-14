@@ -1,0 +1,16 @@
+.detailsContainer {
+    padding: 20px;
+    text-align: center;
+}
+
+.detailsContainer img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.detailsContainer button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
